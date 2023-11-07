@@ -1,0 +1,12 @@
+.div-class {
+    height: 700px;
+    width: 900px;
+    background-color: greenyellow;
+  }
+  .anchor{
+    text-decoration: none;
+    display: inline-block;
+   
+   height: 100%;
+   width: 100%;
+  }
